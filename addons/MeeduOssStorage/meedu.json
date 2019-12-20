@@ -1,0 +1,8 @@
+{
+  "name": "阿里云OSS图片存储",
+  "version": "v3.0",
+  "main_url": "/backend/meedu_oss_storage/setting",
+  "require": {
+    "jacobcyl/ali-oss-storage": "^2.1"
+  }
+}

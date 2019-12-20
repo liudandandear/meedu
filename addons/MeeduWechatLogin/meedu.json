@@ -1,0 +1,8 @@
+{
+   "name": "微信Web登录",
+   "version": "v2.0",
+   "main_url": "/backend/meedu_wechat_login/setting",
+   "require": {
+      "socialiteproviders/weixin-web": "dev-master"
+   }
+}
