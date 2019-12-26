@@ -20,7 +20,7 @@
         </header>
 
         <nav class="sidebar-navigation">
-            <ul class="menu">
+            <ul class="menu-lg">
                 @foreach(backend_menus() as $menu)
                     <li class="menu-item {{menu_is_active($menu->id) ? 'active open' : ''}}">
                         <a class="menu-link" href="#">
